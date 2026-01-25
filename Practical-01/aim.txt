@@ -1,0 +1,1 @@
+PRELAB – Awareness of Google Colab and VS Code to Implement a Python Program to find a magic square of given dimension.
