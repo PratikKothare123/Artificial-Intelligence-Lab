@@ -1,0 +1,8 @@
+🧠 PRACTICAL OUTPUT (What You Show)
+✔ Prompt You Designed:
+Explain the concept of Adversarial Search in Artificial Intelligence with examples. 
+Include Minimax algorithm and Alpha-Beta Pruning in simple language.
+✔ Expected AI Output (Short Example)
+Adversarial Search is used in games where players compete.
+Minimax algorithm helps in choosing the best move.
+Alpha-Beta pruning improves efficiency by removing unnecessary nodes.

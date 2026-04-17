@@ -1,0 +1,1 @@
+Aim: Apply prompt engineering to construct a prompt for learning the concept of Adversarial Search.
